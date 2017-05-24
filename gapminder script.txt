@@ -1,0 +1,11 @@
+var txt="";
+$$(".image-content").forEach(function(i,val){
+	var url =i.style["backgroundImage"]
+	urls.push(url);
+	var desc = i.children[0];
+	price=desc.children[0].innerText
+    cnt=desc.children[1].innerText
+	txt+=price+"_"+cnt+"_"+url+"\n";
+	
+})
+txt

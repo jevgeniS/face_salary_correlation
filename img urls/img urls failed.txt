@@ -1,0 +1,8 @@
+$11 381_Latvia_http://static.dollarstreet.org/media/Latvia%202/image/a77cb482-a8c4-449f-9313-0b8fe0679c6f/480x480-a77cb482-a8c4-449f-9313-0b8fe0679c6f.jpg
+$480_Latvia_http://static.dollarstreet.org/media/Latvia%204/image/a9925cf4-9d6e-407c-861d-7a5bdbc51ed3/480x480-a9925cf4-9d6e-407c-861d-7a5bdbc51ed3.jpg
+$4 446_United States_http://static.dollarstreet.org/media/USA%2012/image/a800f73f-02d7-47ed-86f0-74ca56957696/480x480-a800f73f-02d7-47ed-86f0-74ca56957696.jpg
+$2 235_China_http://static.dollarstreet.org/media/China%2022/image/f0aab380-98f9-406e-b1b7-0f795570cad5/480x480-f0aab380-98f9-406e-b1b7-0f795570cad5.jpg
+$2 055_United States_http://static.dollarstreet.org/media/USA%2010/image/c908c9c5-2978-4c0f-a390-44377c94a1fd/480x480-c908c9c5-2978-4c0f-a390-44377c94a1fd.jpg
+$102_Peru_http://static.dollarstreet.org/media/Peru%201/image/d3f9f3bf-c5d2-41eb-9d76-f62f5238fba4/480x480-d3f9f3bf-c5d2-41eb-9d76-f62f5238fba4.jpg
+$575_China_http://static.dollarstreet.org/media/China%2023/image/7bc754c7-5d19-42f2-bfb6-b86a8cba1aa6/480x480-7bc754c7-5d19-42f2-bfb6-b86a8cba1aa6.jpg
+$1 614_India_http://static.dollarstreet.org/media/India%206/image/41e0a315-d9e5-4d79-a7f0-ad5ecd27903f/480x480-41e0a315-d9e5-4d79-a7f0-ad5ecd27903f.jpg

@@ -1,0 +1,22 @@
+$578_Russia_http://static.dollarstreet.org/media/Russia%201/image/7d17f9c3-f5d6-428f-97ab-5dfa3c5c36a5/480x480-7d17f9c3-f5d6-428f-97ab-5dfa3c5c36a5.jpg
+$11 381_Latvia_http://static.dollarstreet.org/media/Latvia%202/image/a77cb482-a8c4-449f-9313-0b8fe0679c6f/480x480-a77cb482-a8c4-449f-9313-0b8fe0679c6f.jpg
+$480_Latvia_http://static.dollarstreet.org/media/Latvia%204/image/a9925cf4-9d6e-407c-861d-7a5bdbc51ed3/480x480-a9925cf4-9d6e-407c-861d-7a5bdbc51ed3.jpg
+$4 883_Sweden_http://static.dollarstreet.org/media/Sweden%206/image/85f62fbe-cabc-44de-9ca9-1b5c826327d4/480x480-85f62fbe-cabc-44de-9ca9-1b5c826327d4.jpg
+$4 446_United States_http://static.dollarstreet.org/media/USA%2012/image/a800f73f-02d7-47ed-86f0-74ca56957696/480x480-a800f73f-02d7-47ed-86f0-74ca56957696.jpg
+$3 588_Netherlands_http://static.dollarstreet.org/media/Peru%202/image/e732a382-f056-41e5-a898-7fd6ca312d6a/480x480-e732a382-f056-41e5-a898-7fd6ca312d6a.jpg
+$2 235_China_http://static.dollarstreet.org/media/China%2022/image/f0aab380-98f9-406e-b1b7-0f795570cad5/480x480-f0aab380-98f9-406e-b1b7-0f795570cad5.jpg
+$2 223_Sweden_http://static.dollarstreet.org/media/Sweden%208/image/f9e66609-846a-4a4a-b2f9-5bbb6b748fb0/480x480-f9e66609-846a-4a4a-b2f9-5bbb6b748fb0.jpg
+$112_Palestine_http://static.dollarstreet.org/media/Palestine%201/image/8b953765-f015-4598-8c53-de320c2b3bb9/480x480-8b953765-f015-4598-8c53-de320c2b3bb9.jpg
+$2 055_United States_http://static.dollarstreet.org/media/USA%2010/image/c908c9c5-2978-4c0f-a390-44377c94a1fd/480x480-c908c9c5-2978-4c0f-a390-44377c94a1fd.jpg
+$102_Peru_http://static.dollarstreet.org/media/Peru%201/image/d3f9f3bf-c5d2-41eb-9d76-f62f5238fba4/480x480-d3f9f3bf-c5d2-41eb-9d76-f62f5238fba4.jpg
+$1 743_Latvia_http://static.dollarstreet.org/media/Latvia%203/image/2b1e9094-2d59-432d-b9f4-cf61231017da/480x480-2b1e9094-2d59-432d-b9f4-cf61231017da.jpg
+$575_China_http://static.dollarstreet.org/media/China%2023/image/7bc754c7-5d19-42f2-bfb6-b86a8cba1aa6/480x480-7bc754c7-5d19-42f2-bfb6-b86a8cba1aa6.jpg
+$1 614_India_http://static.dollarstreet.org/media/India%206/image/41e0a315-d9e5-4d79-a7f0-ad5ecd27903f/480x480-41e0a315-d9e5-4d79-a7f0-ad5ecd27903f.jpg
+$1 289_Sweden_http://static.dollarstreet.org/media/Sweden%209/image/5929b874-9bd9-43ed-8063-f2b11d163094/480x480-5929b874-9bd9-43ed-8063-f2b11d163094.jpg
+$624_Palestine_http://static.dollarstreet.org/media/Palestine%202/image/36c84437-5fa1-4b81-a710-ee83c739c4e7/480x480-36c84437-5fa1-4b81-a710-ee83c739c4e7.jpg
+$1 051_Tanzania_http://static.dollarstreet.org/media/Tanzania%201/image/188383f9-7b44-4f53-9cf7-b6f41c41a7ea/480x480-188383f9-7b44-4f53-9cf7-b6f41c41a7ea.jpg
+$3 780_United States_http://static.dollarstreet.org/media/USA%2011/image/c1f7a5c7-dc35-4d61-89db-8f5c2d53ef5b/480x480-c1f7a5c7-dc35-4d61-89db-8f5c2d53ef5b.jpg
+$3 439_Sweden_http://static.dollarstreet.org/media/Sweden%207/image/b40aa015-0de1-4551-ada0-32a7677186ce/480x480-b40aa015-0de1-4551-ada0-32a7677186ce.jpg
+$3 384_Sweden_http://static.dollarstreet.org/media/Sweden%2010/image/0a36a97b-957e-4f21-a1e2-e6cf11de92c5/480x480-0a36a97b-957e-4f21-a1e2-e6cf11de92c5.jpg
+$2 001_United States_http://static.dollarstreet.org/media/USA%209/image/7c14f024-5e53-4446-9ec8-075bfd0a196c/480x480-7c14f024-5e53-4446-9ec8-075bfd0a196c.jpg
+$2 074_Sweden_http://static.dollarstreet.org/media/Sweden%201/image/7c0c0bf8-74d0-4880-ba6f-b04c86185c0c/480x480-7c0c0bf8-74d0-4880-ba6f-b04c86185c0c.jpg
